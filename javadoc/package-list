@@ -23,5 +23,4 @@ com.wingman.client.ui
 com.wingman.client.ui.buttons
 com.wingman.client.ui.style
 com.wingman.client.ui.titlebars
-com.wingman.client.ui.toolbars
 com.wingman.client.ui.util
