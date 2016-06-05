@@ -7,13 +7,14 @@ com.wingman.client.api.events.mouse
 com.wingman.client.api.events.rendering
 com.wingman.client.api.generated
 com.wingman.client.api.mapping
+com.wingman.client.api.net
 com.wingman.client.api.plugin
+com.wingman.client.api.settings
 com.wingman.client.api.transformer
 com.wingman.client.api.ui
 com.wingman.client.classloader
 com.wingman.client.classloader.transformers
 com.wingman.client.classloader.transformers.mapping
-com.wingman.client.net
 com.wingman.client.plugin
 com.wingman.client.plugin.exceptions
 com.wingman.client.plugin.toposort
