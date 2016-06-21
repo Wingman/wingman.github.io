@@ -22,7 +22,6 @@ com.wingman.client.rs
 com.wingman.client.rs.listeners
 com.wingman.client.ui
 com.wingman.client.ui.components
-com.wingman.client.ui.components.buttons
 com.wingman.client.ui.style
 com.wingman.client.ui.titlebars
 com.wingman.client.ui.util
