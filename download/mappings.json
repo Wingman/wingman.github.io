@@ -224,6 +224,18 @@
       "opaquePredicate": 1108603369
     },
     {
+      "realName": "updateItemLayer",
+      "name": "ba",
+      "owner": "ay",
+      "type": "V",
+      "realType": "V",
+      "desc": "(IIB)V",
+      "realDesc": "(II)V",
+      "isStatic": true,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 1
+    },
+    {
       "realName": "addMessage",
       "name": "u",
       "owner": "ao",
@@ -452,6 +464,18 @@
       "opaquePredicate": 0
     },
     {
+      "realName": "removeItemLayer",
+      "name": "o",
+      "owner": "cb",
+      "type": "V",
+      "realType": "V",
+      "desc": "(III)V",
+      "realDesc": "(III)V",
+      "isStatic": false,
+      "hasOpaquePredicate": false,
+      "opaquePredicate": 0
+    },
+    {
       "realName": "renderAtPoint",
       "name": "cb",
       "owner": "cm",
@@ -642,6 +666,16 @@
       "isStatic": true,
       "getter": 490826049,
       "setter": -1475336511
+    },
+    {
+      "realName": "groundItems",
+      "owner": "client",
+      "name": "he",
+      "type": "[[[Ldz;",
+      "realType": "[[[Lcom/wingman/client/api/generated/LinkedNodeList;",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "itemContainers",
