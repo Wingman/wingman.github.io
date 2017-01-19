@@ -1,5 +1,4 @@
 com.wingman.client
-com.wingman.client.api
 com.wingman.client.api.enums
 com.wingman.client.api.event
 com.wingman.client.api.events
