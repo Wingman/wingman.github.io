@@ -34,6 +34,10 @@
       "name": "de"
     },
     {
+      "realName": "GrandExchangeOffer",
+      "name": "a"
+    },
+    {
       "realName": "HealthBar",
       "name": "an"
     },
@@ -678,6 +682,16 @@
       "setter": 721782365
     },
     {
+      "realName": "grandExchangeOffers",
+      "owner": "client",
+      "name": "pn",
+      "type": "[La;",
+      "realType": "[Lcom/wingman/client/api/generated/GrandExchangeOffer;",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "groundItems",
       "owner": "client",
       "name": "hh",
@@ -968,6 +982,26 @@
       "setter": 1
     },
     {
+      "realName": "completedPrice",
+      "owner": "a",
+      "name": "g",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -1216850173,
+      "setter": 811617195
+    },
+    {
+      "realName": "completedQuantity",
+      "owner": "a",
+      "name": "a",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -646027585,
+      "setter": -1850209985
+    },
+    {
       "realName": "definition",
       "owner": "an",
       "name": "f",
@@ -1116,6 +1150,16 @@
       "isStatic": false,
       "getter": 1,
       "setter": 1
+    },
+    {
+      "realName": "itemId",
+      "owner": "a",
+      "name": "c",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -52161969,
+      "setter": 1996342447
     },
     {
       "realName": "itemIds",
@@ -1368,6 +1412,16 @@
       "setter": 1
     },
     {
+      "realName": "price",
+      "owner": "a",
+      "name": "f",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -2035125335,
+      "setter": 1075699865
+    },
+    {
       "realName": "pushedLoopCycle",
       "owner": "t",
       "name": "c",
@@ -1396,6 +1450,16 @@
       "isStatic": false,
       "getter": -70761149,
       "setter": 939618155
+    },
+    {
+      "realName": "quantity",
+      "owner": "a",
+      "name": "h",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": 1538806693,
+      "setter": 708992045
     },
     {
       "realName": "sender",
@@ -1436,6 +1500,16 @@
       "isStatic": false,
       "getter": 1398839199,
       "setter": -743521185
+    },
+    {
+      "realName": "state",
+      "owner": "a",
+      "name": "s",
+      "type": "B",
+      "realType": "B",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "team",
