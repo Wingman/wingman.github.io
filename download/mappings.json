@@ -692,6 +692,16 @@
       "setter": 1
     },
     {
+      "realName": "graphicsBuffer",
+      "owner": "bl",
+      "name": "qh",
+      "type": "Lhq;",
+      "realType": "Lcom/wingman/client/api/generated/AbstractGraphicsBuffer;",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "groundItems",
       "owner": "client",
       "name": "hf",
