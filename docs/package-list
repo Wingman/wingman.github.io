@@ -3,10 +3,10 @@ com.wingman.client.api.enums
 com.wingman.client.api.event
 com.wingman.client.api.events
 com.wingman.client.api.events.mouse
-com.wingman.client.api.events.rendering
 com.wingman.client.api.generated
 com.wingman.client.api.mapping
 com.wingman.client.api.net
+com.wingman.client.api.overlay
 com.wingman.client.api.plugin
 com.wingman.client.api.settings
 com.wingman.client.api.transformer
@@ -26,3 +26,4 @@ com.wingman.client.ui.style
 com.wingman.client.ui.style.synthstyles
 com.wingman.client.ui.titlebars
 com.wingman.client.ui.util
+com.wingman.client.util
