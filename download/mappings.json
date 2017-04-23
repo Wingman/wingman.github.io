@@ -632,6 +632,26 @@
       "setter": 1643050297
     },
     {
+      "realName": "currentLevels",
+      "owner": "client",
+      "name": "hv",
+      "type": "[I",
+      "realType": "[I",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
+    },
+    {
+      "realName": "expLevels",
+      "owner": "client",
+      "name": "he",
+      "type": "[I",
+      "realType": "[I",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "externalPlayerLocations",
       "owner": "aa",
       "name": "w",
@@ -847,6 +867,16 @@
       "name": "li",
       "type": "Z",
       "realType": "Z",
+      "isStatic": true,
+      "getter": 1,
+      "setter": 1
+    },
+    {
+      "realName": "skillExperiencePoints",
+      "owner": "client",
+      "name": "hu",
+      "type": "[I",
+      "realType": "[I",
       "isStatic": true,
       "getter": 1,
       "setter": 1
