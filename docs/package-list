@@ -10,7 +10,6 @@ com.wingman.client.api.overlay
 com.wingman.client.api.plugin
 com.wingman.client.api.settings
 com.wingman.client.api.transformer
-com.wingman.client.api.ui
 com.wingman.client.api.ui.settingscreen
 com.wingman.client.classloader
 com.wingman.client.classloader.transformers
