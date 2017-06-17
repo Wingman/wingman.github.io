@@ -74,6 +74,10 @@
       "name": "iy"
     },
     {
+      "realName": "ItemLayer",
+      "name": "dp"
+    },
+    {
       "realName": "Landscape",
       "name": "eq"
     },
@@ -940,6 +944,16 @@
       "setter": -1727120601
     },
     {
+      "realName": "bottom",
+      "owner": "dp",
+      "name": "w",
+      "type": "Lel;",
+      "realType": "Lcom/wingman/client/api/generated/Entity;",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "canvas",
       "owner": "bp",
       "name": "al",
@@ -1061,6 +1075,16 @@
     },
     {
       "realName": "height",
+      "owner": "dp",
+      "name": "i",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -627781191,
+      "setter": 229368969
+    },
+    {
+      "realName": "height",
       "owner": "jz",
       "name": "w",
       "type": "I",
@@ -1175,6 +1199,16 @@
       "name": "eu",
       "type": "[I",
       "realType": "[I",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
+    },
+    {
+      "realName": "itemLayer",
+      "owner": "eo",
+      "name": "c",
+      "type": "Ldp;",
+      "realType": "Lcom/wingman/client/api/generated/ItemLayer;",
       "isStatic": false,
       "getter": 1,
       "setter": 1
@@ -1661,6 +1695,16 @@
     },
     {
       "realName": "x",
+      "owner": "dp",
+      "name": "e",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": 710711513,
+      "setter": -1359583383
+    },
+    {
+      "realName": "x",
       "owner": "eo",
       "name": "m",
       "type": "I",
@@ -1678,6 +1722,16 @@
       "isStatic": false,
       "getter": 1795514157,
       "setter": -1325840219
+    },
+    {
+      "realName": "y",
+      "owner": "dp",
+      "name": "t",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": 1940262723,
+      "setter": 1678407019
     },
     {
       "realName": "y",
