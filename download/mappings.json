@@ -169,6 +169,18 @@
       "opaquePredicate": 16180521
     },
     {
+      "realName": "drawGame",
+      "owner": "d",
+      "name": "fi",
+      "type": "V",
+      "realType": "V",
+      "desc": "(IIIIB)V",
+      "realDesc": "(IIII)V",
+      "isStatic": true,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 3
+    },
+    {
       "realName": "getItemDefinition",
       "owner": "hc",
       "name": "p",
