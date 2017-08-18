@@ -217,6 +217,18 @@
       "opaquePredicate": -772252411
     },
     {
+      "realName": "renderCharacter2D",
+      "owner": "u",
+      "name": "gl",
+      "type": "V",
+      "realType": "V",
+      "desc": "(Lcr;IIIIII)V",
+      "realDesc": "(Lcom/wingman/client/api/generated/Character;IIIII)V",
+      "isStatic": true,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 1832764463
+    },
+    {
       "realName": "updateCharacterMovement",
       "owner": "jn",
       "name": "fd",
