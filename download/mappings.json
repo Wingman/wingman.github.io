@@ -513,8 +513,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -14835633,
-      "setter": -172656977
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "appletWidth",
@@ -523,8 +523,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1528311993,
-      "setter": -1314597495
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "cameraPitch",
@@ -533,8 +533,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -327258247,
-      "setter": -122828087
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "cameraX",
@@ -543,8 +543,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -570981729,
-      "setter": 1836783967
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "cameraY",
@@ -553,8 +553,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1462660465,
-      "setter": -334580847
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "cameraYaw",
@@ -563,8 +563,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 829749175,
-      "setter": 949523975
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "cameraZ",
@@ -573,8 +573,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 503524493,
-      "setter": -871598523
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "clientInstance",
@@ -593,8 +593,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -854648669,
-      "setter": 344480523
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "currentLevels",
@@ -633,8 +633,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1090364569,
-      "setter": -1112510551
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "gameDrawingMode",
@@ -643,8 +643,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 954483837,
-      "setter": 1193432277
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "gameSettings",
@@ -663,8 +663,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -2088433601,
-      "setter": -2026707009
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "grandExchangeOffers",
@@ -733,8 +733,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1532267913,
-      "setter": 792852665
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "mapAngle",
@@ -743,8 +743,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1878759629,
-      "setter": -1061284859
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "messageContainers",
@@ -793,8 +793,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1045184925,
-      "setter": 26692789
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "repaintFlag",
@@ -803,8 +803,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -716361035,
-      "setter": -1538937955
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "resizableMode",
@@ -853,8 +853,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -1798791025,
-      "setter": 1749319279
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "viewPortScale",
@@ -863,8 +863,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -697298007,
-      "setter": 294273177
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "viewPortWidth",
@@ -873,8 +873,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1678497187,
-      "setter": -1856764405
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "widgetSettings",
@@ -923,8 +923,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 721660763,
-      "setter": 638356691
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "bitPosition",
@@ -933,8 +933,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -344750035,
-      "setter": -1089468507
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "bottom",
@@ -963,8 +963,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1653252197,
-      "setter": -1000926867
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "combatLevel",
@@ -973,8 +973,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1897543249,
-      "setter": -145937073
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "comment",
@@ -993,8 +993,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1143308177,
-      "setter": -680451727
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "completedQuantity",
@@ -1003,8 +1003,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -764493253,
-      "setter": -710097165
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "definition",
@@ -1063,8 +1063,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -738795851,
-      "setter": 1569431453
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "height",
@@ -1073,8 +1073,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 370591105,
-      "setter": 1307015809
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "height",
@@ -1083,8 +1083,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1023163507,
-      "setter": -501401787
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "hidden",
@@ -1113,8 +1113,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -650261999,
-      "setter": -147691791
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "id",
@@ -1123,8 +1123,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -416969063,
-      "setter": -1835604567
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "ids",
@@ -1143,8 +1143,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1821066623,
-      "setter": 1630960255
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "interactableObjects",
@@ -1163,8 +1163,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1752718487,
-      "setter": -1561271513
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "isaacCipher",
@@ -1183,8 +1183,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -627272043,
-      "setter": -104823619
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "itemIds",
@@ -1253,8 +1253,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1171648773,
-      "setter": -1243755469
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "name",
@@ -1333,8 +1333,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1955005475,
-      "setter": 905720949
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "noteTemplateIndex",
@@ -1343,8 +1343,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -2058393107,
-      "setter": 1420516325
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "objectFlags",
@@ -1363,8 +1363,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1770454463,
-      "setter": -799542721
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "overHeadIcon",
@@ -1373,8 +1373,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -857611611,
-      "setter": -1816971987
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "parent",
@@ -1413,8 +1413,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -620511103,
-      "setter": 2023522177
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "position",
@@ -1423,8 +1423,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1573487627,
-      "setter": 1535240099
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "prefix",
@@ -1463,8 +1463,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 77816035,
-      "setter": -1346837301
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "pushedLoopCycle",
@@ -1473,8 +1473,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -987006963,
-      "setter": -137783611
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "quantities",
@@ -1493,8 +1493,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1778300201,
-      "setter": 1314867431
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "quantity",
@@ -1503,8 +1503,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -113944759,
-      "setter": 835406585
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "sender",
@@ -1533,8 +1533,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1861618247,
-      "setter": -2067300215
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "spawnedLoopCycle",
@@ -1543,8 +1543,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 506383791,
-      "setter": -98916017
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "state",
@@ -1563,8 +1563,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 436753495,
-      "setter": 739759975
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "teamIndex",
@@ -1573,8 +1573,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1230171979,
-      "setter": 209756771
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "text",
@@ -1603,8 +1603,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1136569905,
-      "setter": 168553169
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "type",
@@ -1613,8 +1613,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1146217605,
-      "setter": -1842711475
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "value",
@@ -1623,8 +1623,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1337001535,
-      "setter": -1183050175
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "visible",
@@ -1663,8 +1663,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1133024047,
-      "setter": 159617999
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "width",
@@ -1673,8 +1673,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -691802281,
-      "setter": -299996057
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "x",
@@ -1683,8 +1683,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 318627133,
-      "setter": -81665515
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "x",
@@ -1693,8 +1693,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 660876079,
-      "setter": 2021063631
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "x",
@@ -1703,8 +1703,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -160254689,
-      "setter": -1174763809
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "y",
@@ -1713,8 +1713,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1038414011,
-      "setter": -1310184563
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "y",
@@ -1723,8 +1723,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1322711183,
-      "setter": 1974786449
+      "getter": 1,
+      "setter": 1
     },
     {
       "realName": "y",
@@ -1733,8 +1733,8 @@
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -800399631,
-      "setter": -981577199
+      "getter": 1,
+      "setter": 1
     }
   ]
 }
