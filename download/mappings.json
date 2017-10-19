@@ -1,22 +1,22 @@
 {
-  "gameHash": "c7ae2704a9c89d46fb029e6e91047220c5eb84cbb8a62ca45218960ae2e235f3",
-  "gameRevision": 155,
+  "gameHash": "947b460c9653e6c457b243ebbf6ab2bbddace5c64bcee011c66d85b887cf0e36",
+  "gameRevision": 156,
   "classes": [
     {
       "realName": "AbstractGraphicsBuffer",
-      "name": "jb"
+      "name": "jk"
     },
     {
       "realName": "BitBuffer",
-      "name": "fd"
-    },
-    {
-      "realName": "ByteBuffer",
       "name": "fg"
     },
     {
+      "realName": "ByteBuffer",
+      "name": "fz"
+    },
+    {
       "realName": "Character",
-      "name": "bs"
+      "name": "by"
     },
     {
       "realName": "Client",
@@ -24,119 +24,119 @@
     },
     {
       "realName": "DualNode",
-      "name": "gg"
-    },
-    {
-      "realName": "Entity",
-      "name": "ee"
-    },
-    {
-      "realName": "GameEngine",
-      "name": "bn"
-    },
-    {
-      "realName": "GrandExchangeOffer",
-      "name": "j"
-    },
-    {
-      "realName": "GraphicsBuffer",
-      "name": "bb"
-    },
-    {
-      "realName": "HealthBar",
-      "name": "cx"
-    },
-    {
-      "realName": "HealthBarDefinition",
-      "name": "iz"
-    },
-    {
-      "realName": "HitUpdate",
-      "name": "bp"
-    },
-    {
-      "realName": "InteractableObject",
-      "name": "eu"
-    },
-    {
-      "realName": "IsaacCipher",
-      "name": "fn"
-    },
-    {
-      "realName": "Item",
-      "name": "ch"
-    },
-    {
-      "realName": "ItemContainer",
-      "name": "bx"
-    },
-    {
-      "realName": "ItemDefinition",
-      "name": "io"
-    },
-    {
-      "realName": "ItemLayer",
-      "name": "dj"
-    },
-    {
-      "realName": "Landscape",
-      "name": "em"
-    },
-    {
-      "realName": "LandscapeTile",
-      "name": "ed"
-    },
-    {
-      "realName": "LinkedNodeList",
-      "name": "gh"
-    },
-    {
-      "realName": "Message",
-      "name": "bm"
-    },
-    {
-      "realName": "MessageContainer",
-      "name": "cw"
-    },
-    {
-      "realName": "Model",
-      "name": "eb"
-    },
-    {
-      "realName": "NPC",
-      "name": "cs"
-    },
-    {
-      "realName": "NPCDefinition",
-      "name": "id"
-    },
-    {
-      "realName": "Node",
-      "name": "gs"
-    },
-    {
-      "realName": "NodeIterable",
       "name": "gp"
     },
     {
+      "realName": "Entity",
+      "name": "en"
+    },
+    {
+      "realName": "GameEngine",
+      "name": "bv"
+    },
+    {
+      "realName": "GrandExchangeOffer",
+      "name": "h"
+    },
+    {
+      "realName": "GraphicsBuffer",
+      "name": "bp"
+    },
+    {
+      "realName": "HealthBar",
+      "name": "cg"
+    },
+    {
+      "realName": "HealthBarDefinition",
+      "name": "io"
+    },
+    {
+      "realName": "HitUpdate",
+      "name": "bu"
+    },
+    {
+      "realName": "InteractableObject",
+      "name": "el"
+    },
+    {
+      "realName": "IsaacCipher",
+      "name": "ft"
+    },
+    {
+      "realName": "Item",
+      "name": "cd"
+    },
+    {
+      "realName": "ItemContainer",
+      "name": "bt"
+    },
+    {
+      "realName": "ItemDefinition",
+      "name": "ii"
+    },
+    {
+      "realName": "ItemLayer",
+      "name": "da"
+    },
+    {
+      "realName": "Landscape",
+      "name": "eu"
+    },
+    {
+      "realName": "LandscapeTile",
+      "name": "ev"
+    },
+    {
+      "realName": "LinkedNodeList",
+      "name": "gz"
+    },
+    {
+      "realName": "Message",
+      "name": "bb"
+    },
+    {
+      "realName": "MessageContainer",
+      "name": "cv"
+    },
+    {
+      "realName": "Model",
+      "name": "eh"
+    },
+    {
+      "realName": "NPC",
+      "name": "cm"
+    },
+    {
+      "realName": "NPCDefinition",
+      "name": "ia"
+    },
+    {
+      "realName": "Node",
+      "name": "gd"
+    },
+    {
+      "realName": "NodeIterable",
+      "name": "gq"
+    },
+    {
       "realName": "NodeTable",
-      "name": "gn"
+      "name": "gs"
     },
     {
       "realName": "ObjectDefinition",
-      "name": "ic"
+      "name": "iv"
     },
     {
       "realName": "Player",
-      "name": "bw"
+      "name": "bk"
     },
     {
       "realName": "RSException",
-      "name": "ej"
+      "name": "ez"
     },
     {
       "realName": "WallObject",
-      "name": "et"
+      "name": "ef"
     },
     {
       "realName": "Widget",
@@ -146,68 +146,68 @@
   "methods": [
     {
       "realName": "decodeExternalPlayerMovement",
-      "owner": "fi",
-      "name": "q",
+      "owner": "fo",
+      "name": "v",
       "type": "Z",
       "realType": "Z",
-      "desc": "(Lfd;IB)Z",
+      "desc": "(Lfg;II)Z",
       "realDesc": "(Lcom/wingman/client/api/generated/BitBuffer;I)Z",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 1
+      "opaquePredicate": -795851483
     },
     {
       "realName": "decodeNpcUpdate",
-      "owner": "w",
-      "name": "hp",
+      "owner": "m",
+      "name": "hx",
       "type": "V",
       "realType": "V",
       "desc": "(ZI)V",
       "realDesc": "(Z)V",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -741246638
+      "opaquePredicate": -750393408
     },
     {
       "realName": "getItemDefinition",
-      "owner": "ax",
-      "name": "d",
-      "type": "Lio;",
+      "owner": "er",
+      "name": "s",
+      "type": "Lii;",
       "realType": "Lcom/wingman/client/api/generated/ItemDefinition;",
-      "desc": "(IB)Lio;",
+      "desc": "(II)Lii;",
       "realDesc": "(I)Lcom/wingman/client/api/generated/ItemDefinition;",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -1
+      "opaquePredicate": -1891722244
     },
     {
       "realName": "getNpcDefinition",
-      "owner": "bh",
-      "name": "k",
-      "type": "Lid;",
+      "owner": "b",
+      "name": "s",
+      "type": "Lia;",
       "realType": "Lcom/wingman/client/api/generated/NPCDefinition;",
-      "desc": "(II)Lid;",
+      "desc": "(II)Lia;",
       "realDesc": "(I)Lcom/wingman/client/api/generated/NPCDefinition;",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -28397537
+      "opaquePredicate": 1411829575
     },
     {
       "realName": "getObjectDefinition",
-      "owner": "ec",
-      "name": "k",
-      "type": "Lic;",
+      "owner": "fw",
+      "name": "s",
+      "type": "Liv;",
       "realType": "Lcom/wingman/client/api/generated/ObjectDefinition;",
-      "desc": "(IB)Lic;",
+      "desc": "(II)Liv;",
       "realDesc": "(I)Lcom/wingman/client/api/generated/ObjectDefinition;",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 7
+      "opaquePredicate": 811445324
     },
     {
       "realName": "pushMessage",
-      "owner": "an",
-      "name": "e",
+      "owner": "ab",
+      "name": "q",
       "type": "V",
       "realType": "V",
       "desc": "(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;I)V",
@@ -218,59 +218,59 @@
     },
     {
       "realName": "renderCharacter2D",
-      "owner": "bm",
-      "name": "ga",
+      "owner": "s",
+      "name": "gq",
       "type": "V",
       "realType": "V",
-      "desc": "(Lbs;IIIIIS)V",
+      "desc": "(Lby;IIIIII)V",
       "realDesc": "(Lcom/wingman/client/api/generated/Character;IIIII)V",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 8229
+      "opaquePredicate": 2147391919
     },
     {
       "realName": "updateCharacterMovement",
-      "owner": "at",
-      "name": "gl",
+      "owner": "av",
+      "name": "fd",
       "type": "V",
       "realType": "V",
-      "desc": "(Lbs;II)V",
+      "desc": "(Lby;IB)V",
       "realDesc": "(Lcom/wingman/client/api/generated/Character;I)V",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -1073825208
+      "opaquePredicate": 5
     },
     {
       "realName": "updateItemLayer",
-      "owner": "ac",
-      "name": "hw",
+      "owner": "ck",
+      "name": "hh",
       "type": "V",
       "realType": "V",
       "desc": "(III)V",
       "realDesc": "(II)V",
       "isStatic": true,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 1373765325
+      "opaquePredicate": 1893073793
     },
     {
       "realName": "addMessage",
-      "owner": "cw",
-      "name": "d",
-      "type": "Lbm;",
+      "owner": "cv",
+      "name": "w",
+      "type": "Lbb;",
       "realType": "Lcom/wingman/client/api/generated/Message;",
-      "desc": "(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Lbm;",
+      "desc": "(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;B)Lbb;",
       "realDesc": "(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lcom/wingman/client/api/generated/Message;",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -223030584
+      "opaquePredicate": 0
     },
     {
       "realName": "drawClippedGameImage",
-      "owner": "bb",
-      "name": "q",
+      "owner": "bp",
+      "name": "g",
       "type": "V",
       "realType": "V",
-      "desc": "(Ljava/awt/Graphics;IIIII)V",
+      "desc": "(Ljava/awt/Graphics;IIIIB)V",
       "realDesc": "(Ljava/awt/Graphics;IIII)V",
       "isStatic": false,
       "hasOpaquePredicate": true,
@@ -278,8 +278,8 @@
     },
     {
       "realName": "drawFullGameImage",
-      "owner": "bb",
-      "name": "p",
+      "owner": "bp",
+      "name": "o",
       "type": "V",
       "realType": "V",
       "desc": "(Ljava/awt/Graphics;III)V",
@@ -290,11 +290,11 @@
     },
     {
       "realName": "get",
-      "owner": "gn",
-      "name": "d",
-      "type": "Lgs;",
+      "owner": "gs",
+      "name": "w",
+      "type": "Lgd;",
       "realType": "Lcom/wingman/client/api/generated/Node;",
-      "desc": "(J)Lgs;",
+      "desc": "(J)Lgd;",
       "realDesc": "(J)Lcom/wingman/client/api/generated/Node;",
       "isStatic": false,
       "hasOpaquePredicate": false,
@@ -302,59 +302,23 @@
     },
     {
       "realName": "getBits",
-      "owner": "fd",
-      "name": "in",
+      "owner": "fg",
+      "name": "ik",
       "type": "I",
       "realType": "I",
       "desc": "(II)I",
       "realDesc": "(I)I",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 369429947
+      "opaquePredicate": -961905834
     },
     {
       "realName": "getModel",
-      "owner": "bw",
-      "name": "e",
-      "type": "Leb;",
+      "owner": "bk",
+      "name": "q",
+      "type": "Leh;",
       "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
-      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
-      "isStatic": false,
-      "hasOpaquePredicate": true,
-      "opaquePredicate": -15730787
-    },
-    {
-      "realName": "getModel",
-      "owner": "cc",
-      "name": "e",
-      "type": "Leb;",
-      "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
-      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
-      "isStatic": false,
-      "hasOpaquePredicate": true,
-      "opaquePredicate": -15730787
-    },
-    {
-      "realName": "getModel",
-      "owner": "cd",
-      "name": "e",
-      "type": "Leb;",
-      "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
-      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
-      "isStatic": false,
-      "hasOpaquePredicate": true,
-      "opaquePredicate": -15730787
-    },
-    {
-      "realName": "getModel",
-      "owner": "ch",
-      "name": "e",
-      "type": "Leb;",
-      "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
+      "desc": "(B)Leh;",
       "realDesc": "()Lcom/wingman/client/api/generated/Model;",
       "isStatic": false,
       "hasOpaquePredicate": true,
@@ -362,35 +326,71 @@
     },
     {
       "realName": "getModel",
-      "owner": "cp",
-      "name": "e",
-      "type": "Leb;",
+      "owner": "cd",
+      "name": "q",
+      "type": "Leh;",
       "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
+      "desc": "(B)Leh;",
       "realDesc": "()Lcom/wingman/client/api/generated/Model;",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -15730787
+      "opaquePredicate": 0
     },
     {
       "realName": "getModel",
-      "owner": "cs",
-      "name": "e",
-      "type": "Leb;",
+      "owner": "ci",
+      "name": "q",
+      "type": "Leh;",
       "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
+      "desc": "(B)Leh;",
       "realDesc": "()Lcom/wingman/client/api/generated/Model;",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -15730787
+      "opaquePredicate": 0
     },
     {
       "realName": "getModel",
-      "owner": "ee",
-      "name": "e",
-      "type": "Leb;",
+      "owner": "cj",
+      "name": "q",
+      "type": "Leh;",
       "realType": "Lcom/wingman/client/api/generated/Model;",
-      "desc": "(I)Leb;",
+      "desc": "(B)Leh;",
+      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
+      "isStatic": false,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 0
+    },
+    {
+      "realName": "getModel",
+      "owner": "cm",
+      "name": "q",
+      "type": "Leh;",
+      "realType": "Lcom/wingman/client/api/generated/Model;",
+      "desc": "(B)Leh;",
+      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
+      "isStatic": false,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 0
+    },
+    {
+      "realName": "getModel",
+      "owner": "cx",
+      "name": "q",
+      "type": "Leh;",
+      "realType": "Lcom/wingman/client/api/generated/Model;",
+      "desc": "(B)Leh;",
+      "realDesc": "()Lcom/wingman/client/api/generated/Model;",
+      "isStatic": false,
+      "hasOpaquePredicate": true,
+      "opaquePredicate": 0
+    },
+    {
+      "realName": "getModel",
+      "owner": "en",
+      "name": "q",
+      "type": "Leh;",
+      "realType": "Lcom/wingman/client/api/generated/Model;",
+      "desc": "(B)Leh;",
       "realDesc": "()Lcom/wingman/client/api/generated/Model;",
       "isStatic": false,
       "hasOpaquePredicate": true,
@@ -398,8 +398,8 @@
     },
     {
       "realName": "isLinked",
-      "owner": "gs",
-      "name": "js",
+      "owner": "gd",
+      "name": "jp",
       "type": "Z",
       "realType": "Z",
       "desc": "()Z",
@@ -411,19 +411,19 @@
     {
       "realName": "processRendering",
       "owner": "client",
-      "name": "av",
+      "name": "ab",
       "type": "V",
       "realType": "V",
-      "desc": "(ZB)V",
+      "desc": "(ZS)V",
       "realDesc": "(Z)V",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": 1
+      "opaquePredicate": 187
     },
     {
       "realName": "rearrangeItemSlot",
       "owner": "hj",
-      "name": "v",
+      "name": "x",
       "type": "V",
       "realType": "V",
       "desc": "(III)V",
@@ -434,8 +434,8 @@
     },
     {
       "realName": "removeItemLayer",
-      "owner": "em",
-      "name": "ae",
+      "owner": "eu",
+      "name": "ap",
       "type": "V",
       "realType": "V",
       "desc": "(III)V",
@@ -446,8 +446,8 @@
     },
     {
       "realName": "renderAtPoint",
-      "owner": "eb",
-      "name": "cl",
+      "owner": "eh",
+      "name": "cd",
       "type": "V",
       "realType": "V",
       "desc": "(IIIIIIIII)V",
@@ -458,8 +458,8 @@
     },
     {
       "realName": "renderAtPoint",
-      "owner": "ee",
-      "name": "cl",
+      "owner": "en",
+      "name": "cd",
       "type": "V",
       "realType": "V",
       "desc": "(IIIIIIIII)V",
@@ -470,20 +470,20 @@
     },
     {
       "realName": "throwCriticalError",
-      "owner": "bn",
-      "name": "aj",
+      "owner": "bv",
+      "name": "am",
       "type": "V",
       "realType": "V",
-      "desc": "(Ljava/lang/String;I)V",
+      "desc": "(Ljava/lang/String;S)V",
       "realDesc": "(Ljava/lang/String;)V",
       "isStatic": false,
       "hasOpaquePredicate": true,
-      "opaquePredicate": -1387549247
+      "opaquePredicate": 0
     },
     {
       "realName": "unlink",
-      "owner": "gg",
-      "name": "ci",
+      "owner": "gd",
+      "name": "jn",
       "type": "V",
       "realType": "V",
       "desc": "()V",
@@ -494,8 +494,8 @@
     },
     {
       "realName": "unlink",
-      "owner": "gs",
-      "name": "jt",
+      "owner": "gp",
+      "name": "ct",
       "type": "V",
       "realType": "V",
       "desc": "()V",
@@ -508,78 +508,78 @@
   "fields": [
     {
       "realName": "appletHeight",
-      "owner": "au",
-      "name": "n",
-      "type": "I",
-      "realType": "I",
-      "isStatic": true,
-      "getter": -14835633,
-      "setter": -172656977
-    },
-    {
-      "realName": "appletWidth",
-      "owner": "bl",
+      "owner": "bv",
       "name": "l",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1528311993,
-      "setter": -1314597495
+      "getter": 93504255,
+      "setter": -1629209345
+    },
+    {
+      "realName": "appletWidth",
+      "owner": "fx",
+      "name": "m",
+      "type": "I",
+      "realType": "I",
+      "isStatic": true,
+      "getter": 1225516605,
+      "setter": -1535287019
     },
     {
       "realName": "cameraPitch",
-      "owner": "t",
-      "name": "gf",
+      "owner": "j",
+      "name": "gx",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -327258247,
-      "setter": -122828087
+      "getter": 998120087,
+      "setter": -763165401
     },
     {
       "realName": "cameraX",
-      "owner": "hx",
-      "name": "gz",
-      "type": "I",
-      "realType": "I",
-      "isStatic": true,
-      "getter": -570981729,
-      "setter": 1836783967
-    },
-    {
-      "realName": "cameraY",
-      "owner": "cw",
-      "name": "gq",
-      "type": "I",
-      "realType": "I",
-      "isStatic": true,
-      "getter": 1462660465,
-      "setter": -334580847
-    },
-    {
-      "realName": "cameraYaw",
-      "owner": "fh",
-      "name": "gt",
-      "type": "I",
-      "realType": "I",
-      "isStatic": true,
-      "getter": 829749175,
-      "setter": 949523975
-    },
-    {
-      "realName": "cameraZ",
-      "owner": "bo",
+      "owner": "fa",
       "name": "gw",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 503524493,
-      "setter": -871598523
+      "getter": 39076377,
+      "setter": 1480456745
+    },
+    {
+      "realName": "cameraY",
+      "owner": "co",
+      "name": "gm",
+      "type": "I",
+      "realType": "I",
+      "isStatic": true,
+      "getter": 98824363,
+      "setter": 466127363
+    },
+    {
+      "realName": "cameraYaw",
+      "owner": "bu",
+      "name": "gv",
+      "type": "I",
+      "realType": "I",
+      "isStatic": true,
+      "getter": 752206111,
+      "setter": -1615037729
+    },
+    {
+      "realName": "cameraZ",
+      "owner": "he",
+      "name": "gi",
+      "type": "I",
+      "realType": "I",
+      "isStatic": true,
+      "getter": 1661239913,
+      "setter": -99013159
     },
     {
       "realName": "clientInstance",
-      "owner": "bz",
-      "name": "ay",
+      "owner": "e",
+      "name": "an",
       "type": "Lclient;",
       "realType": "Lcom/wingman/client/api/generated/Client;",
       "isStatic": true,
@@ -588,18 +588,18 @@
     },
     {
       "realName": "clientPlane",
-      "owner": "s",
-      "name": "iv",
+      "owner": "ar",
+      "name": "io",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -854648669,
-      "setter": 344480523
+      "getter": -230003367,
+      "setter": -1052439831
     },
     {
       "realName": "currentLevels",
       "owner": "client",
-      "name": "jm",
+      "name": "jw",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -609,7 +609,7 @@
     {
       "realName": "expLevels",
       "owner": "client",
-      "name": "jh",
+      "name": "jl",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -618,8 +618,8 @@
     },
     {
       "realName": "externalPlayerLocations",
-      "owner": "ci",
-      "name": "t",
+      "owner": "cq",
+      "name": "x",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -628,28 +628,28 @@
     },
     {
       "realName": "fps",
-      "owner": "bn",
-      "name": "t",
+      "owner": "bv",
+      "name": "n",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1090364569,
-      "setter": -1112510551
+      "getter": -1030988915,
+      "setter": 2105171781
     },
     {
       "realName": "gameDrawingMode",
       "owner": "client",
-      "name": "mw",
+      "name": "mo",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 954483837,
-      "setter": 1193432277
+      "getter": 151185423,
+      "setter": 479659759
     },
     {
       "realName": "gameSettings",
       "owner": "hx",
-      "name": "e",
+      "name": "q",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -659,18 +659,18 @@
     {
       "realName": "gameState",
       "owner": "client",
-      "name": "bu",
+      "name": "bd",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -2088433601,
-      "setter": -2026707009
+      "getter": 556165409,
+      "setter": 1799903969
     },
     {
       "realName": "grandExchangeOffers",
       "owner": "client",
-      "name": "qx",
-      "type": "[Lj;",
+      "name": "qo",
+      "type": "[Lh;",
       "realType": "[Lcom/wingman/client/api/generated/GrandExchangeOffer;",
       "isStatic": true,
       "getter": 1,
@@ -678,9 +678,9 @@
     },
     {
       "realName": "graphicsBuffer",
-      "owner": "i",
-      "name": "aa",
-      "type": "Ljb;",
+      "owner": "bv",
+      "name": "aj",
+      "type": "Ljk;",
       "realType": "Lcom/wingman/client/api/generated/AbstractGraphicsBuffer;",
       "isStatic": true,
       "getter": 1,
@@ -689,8 +689,8 @@
     {
       "realName": "groundItems",
       "owner": "client",
-      "name": "jl",
-      "type": "[[[Lgh;",
+      "name": "jt",
+      "type": "[[[Lgz;",
       "realType": "[[[Lcom/wingman/client/api/generated/LinkedNodeList;",
       "isStatic": true,
       "getter": 1,
@@ -698,9 +698,9 @@
     },
     {
       "realName": "itemContainers",
-      "owner": "bx",
-      "name": "d",
-      "type": "Lgn;",
+      "owner": "bt",
+      "name": "w",
+      "type": "Lgs;",
       "realType": "Lcom/wingman/client/api/generated/NodeTable;",
       "isStatic": true,
       "getter": 1,
@@ -708,9 +708,9 @@
     },
     {
       "realName": "landscape",
-      "owner": "v",
-      "name": "fe",
-      "type": "Lem;",
+      "owner": "o",
+      "name": "fi",
+      "type": "Leu;",
       "realType": "Lcom/wingman/client/api/generated/Landscape;",
       "isStatic": true,
       "getter": 1,
@@ -718,9 +718,9 @@
     },
     {
       "realName": "localPlayer",
-      "owner": "ft",
+      "owner": "bo",
       "name": "ik",
-      "type": "Lbw;",
+      "type": "Lbk;",
       "realType": "Lcom/wingman/client/api/generated/Player;",
       "isStatic": true,
       "getter": 1,
@@ -729,27 +729,27 @@
     {
       "realName": "loopCycle",
       "owner": "client",
-      "name": "bk",
+      "name": "bq",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1532267913,
-      "setter": 792852665
+      "getter": 1443920379,
+      "setter": 818129203
     },
     {
       "realName": "mapAngle",
       "owner": "client",
-      "name": "gv",
+      "name": "gf",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1878759629,
-      "setter": -1061284859
+      "getter": 1070555481,
+      "setter": 467719913
     },
     {
       "realName": "messageContainers",
-      "owner": "cm",
-      "name": "d",
+      "owner": "cz",
+      "name": "w",
       "type": "Ljava/util/Map;",
       "realType": "Ljava/util/Map;",
       "isStatic": true,
@@ -759,8 +759,8 @@
     {
       "realName": "npcs",
       "owner": "client",
-      "name": "dq",
-      "type": "[Lcs;",
+      "name": "dg",
+      "type": "[Lcm;",
       "realType": "[Lcom/wingman/client/api/generated/NPC;",
       "isStatic": true,
       "getter": 1,
@@ -769,7 +769,7 @@
     {
       "realName": "playerSettings",
       "owner": "hx",
-      "name": "k",
+      "name": "s",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -779,8 +779,8 @@
     {
       "realName": "players",
       "owner": "client",
-      "name": "ii",
-      "type": "[Lbw;",
+      "name": "ib",
+      "type": "[Lbk;",
       "realType": "[Lcom/wingman/client/api/generated/Player;",
       "isStatic": true,
       "getter": 1,
@@ -789,27 +789,27 @@
     {
       "realName": "repaintChatBox",
       "owner": "client",
-      "name": "mh",
+      "name": "mt",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1045184925,
-      "setter": 26692789
+      "getter": -36502463,
+      "setter": -1476719679
     },
     {
       "realName": "repaintFlag",
       "owner": "client",
-      "name": "lq",
+      "name": "ll",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -716361035,
-      "setter": -1538937955
+      "getter": 495966881,
+      "setter": 1841203553
     },
     {
       "realName": "resizableMode",
       "owner": "client",
-      "name": "nc",
+      "name": "nt",
       "type": "Z",
       "realType": "Z",
       "isStatic": true,
@@ -819,7 +819,7 @@
     {
       "realName": "skillExperiencePoints",
       "owner": "client",
-      "name": "jj",
+      "name": "jy",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -828,8 +828,8 @@
     },
     {
       "realName": "tileHeights",
-      "owner": "bi",
-      "name": "d",
+      "owner": "bn",
+      "name": "w",
       "type": "[[[I",
       "realType": "[[[I",
       "isStatic": true,
@@ -838,8 +838,8 @@
     },
     {
       "realName": "tileSettings",
-      "owner": "bi",
-      "name": "k",
+      "owner": "bn",
+      "name": "s",
       "type": "[[[B",
       "realType": "[[[B",
       "isStatic": true,
@@ -849,37 +849,37 @@
     {
       "realName": "viewPortHeight",
       "owner": "client",
-      "name": "qm",
+      "name": "qj",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -1798791025,
-      "setter": 1749319279
+      "getter": -1878811661,
+      "setter": 365393211
     },
     {
       "realName": "viewPortScale",
       "owner": "client",
-      "name": "qr",
+      "name": "qw",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": -697298007,
-      "setter": 294273177
+      "getter": -688421113,
+      "setter": -585812297
     },
     {
       "realName": "viewPortWidth",
       "owner": "client",
-      "name": "qt",
+      "name": "qe",
       "type": "I",
       "realType": "I",
       "isStatic": true,
-      "getter": 1678497187,
-      "setter": -1856764405
+      "getter": 1924384103,
+      "setter": -2025028009
     },
     {
       "realName": "widgetSettings",
       "owner": "hx",
-      "name": "d",
+      "name": "w",
       "type": "[I",
       "realType": "[I",
       "isStatic": true,
@@ -888,8 +888,8 @@
     },
     {
       "realName": "widgets",
-      "owner": "fs",
-      "name": "s",
+      "owner": "hz",
+      "name": "v",
       "type": "[[Lhj;",
       "realType": "[[Lcom/wingman/client/api/generated/Widget;",
       "isStatic": true,
@@ -898,8 +898,8 @@
     },
     {
       "realName": "actions",
-      "owner": "bw",
-      "name": "s",
+      "owner": "bk",
+      "name": "v",
       "type": "[Ljava/lang/String;",
       "realType": "[Ljava/lang/String;",
       "isStatic": false,
@@ -908,8 +908,8 @@
     },
     {
       "realName": "actions",
-      "owner": "id",
-      "name": "a",
+      "owner": "ia",
+      "name": "k",
       "type": "[Ljava/lang/String;",
       "realType": "[Ljava/lang/String;",
       "isStatic": false,
@@ -918,29 +918,29 @@
     },
     {
       "realName": "animation",
-      "owner": "bs",
-      "name": "bl",
+      "owner": "by",
+      "name": "bz",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 721660763,
-      "setter": 638356691
+      "getter": -1192012635,
+      "setter": 2065986349
     },
     {
       "realName": "bitPosition",
-      "owner": "fd",
-      "name": "y",
+      "owner": "fg",
+      "name": "z",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -344750035,
-      "setter": -1089468507
+      "getter": 63638249,
+      "setter": -500929191
     },
     {
       "realName": "bottom",
-      "owner": "dj",
-      "name": "p",
-      "type": "Lee;",
+      "owner": "da",
+      "name": "o",
+      "type": "Len;",
       "realType": "Lcom/wingman/client/api/generated/Entity;",
       "isStatic": false,
       "getter": 1,
@@ -948,8 +948,8 @@
     },
     {
       "realName": "canvas",
-      "owner": "bn",
-      "name": "as",
+      "owner": "bv",
+      "name": "at",
       "type": "Ljava/awt/Canvas;",
       "realType": "Ljava/awt/Canvas;",
       "isStatic": false,
@@ -958,28 +958,28 @@
     },
     {
       "realName": "combatLevel",
-      "owner": "bw",
+      "owner": "bk",
+      "name": "p",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": 1517425253,
+      "setter": -164802707
+    },
+    {
+      "realName": "combatLevel",
+      "owner": "ia",
       "name": "r",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1653252197,
-      "setter": -1000926867
-    },
-    {
-      "realName": "combatLevel",
-      "owner": "id",
-      "name": "l",
-      "type": "I",
-      "realType": "I",
-      "isStatic": false,
-      "getter": -1897543249,
-      "setter": -145937073
+      "getter": 622151053,
+      "setter": 1999275333
     },
     {
       "realName": "comment",
-      "owner": "ej",
-      "name": "p",
+      "owner": "ez",
+      "name": "o",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -988,48 +988,48 @@
     },
     {
       "realName": "completedPrice",
-      "owner": "j",
-      "name": "s",
+      "owner": "h",
+      "name": "v",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1143308177,
-      "setter": -680451727
+      "getter": 1718883181,
+      "setter": -2036732315
     },
     {
       "realName": "completedQuantity",
-      "owner": "j",
-      "name": "q",
+      "owner": "h",
+      "name": "g",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -764493253,
-      "setter": -710097165
+      "getter": 823310939,
+      "setter": -1960319533
     },
     {
       "realName": "definition",
-      "owner": "cs",
-      "name": "d",
-      "type": "Lid;",
-      "realType": "Lcom/wingman/client/api/generated/NPCDefinition;",
-      "isStatic": false,
-      "getter": 1,
-      "setter": 1
-    },
-    {
-      "realName": "definition",
-      "owner": "cx",
-      "name": "e",
-      "type": "Liz;",
+      "owner": "cg",
+      "name": "q",
+      "type": "Lio;",
       "realType": "Lcom/wingman/client/api/generated/HealthBarDefinition;",
       "isStatic": false,
       "getter": 1,
       "setter": 1
     },
     {
+      "realName": "definition",
+      "owner": "cm",
+      "name": "w",
+      "type": "Lia;",
+      "realType": "Lcom/wingman/client/api/generated/NPCDefinition;",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "graphicsBufferImage",
-      "owner": "bb",
-      "name": "k",
+      "owner": "bp",
+      "name": "s",
       "type": "Ljava/awt/Image;",
       "realType": "Ljava/awt/Image;",
       "isStatic": false,
@@ -1038,8 +1038,8 @@
     },
     {
       "realName": "groundActions",
-      "owner": "io",
-      "name": "ab",
+      "owner": "ii",
+      "name": "ay",
       "type": "[Ljava/lang/String;",
       "realType": "[Ljava/lang/String;",
       "isStatic": false,
@@ -1048,9 +1048,9 @@
     },
     {
       "realName": "healthBars",
-      "owner": "bs",
-      "name": "bf",
-      "type": "Lgp;",
+      "owner": "by",
+      "name": "bj",
+      "type": "Lgq;",
       "realType": "Lcom/wingman/client/api/generated/NodeIterable;",
       "isStatic": false,
       "getter": 1,
@@ -1058,38 +1058,38 @@
     },
     {
       "realName": "healthRatio",
-      "owner": "bp",
-      "name": "e",
-      "type": "I",
-      "realType": "I",
-      "isStatic": false,
-      "getter": -738795851,
-      "setter": 1569431453
-    },
-    {
-      "realName": "height",
-      "owner": "dj",
-      "name": "g",
-      "type": "I",
-      "realType": "I",
-      "isStatic": false,
-      "getter": 370591105,
-      "setter": 1307015809
-    },
-    {
-      "realName": "height",
-      "owner": "jb",
+      "owner": "bu",
       "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1023163507,
-      "setter": -501401787
+      "getter": 111613453,
+      "setter": 1768040645
+    },
+    {
+      "realName": "height",
+      "owner": "da",
+      "name": "e",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -2094860075,
+      "setter": 1316651133
+    },
+    {
+      "realName": "height",
+      "owner": "jk",
+      "name": "g",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -754284475,
+      "setter": 318982797
     },
     {
       "realName": "hidden",
-      "owner": "bw",
-      "name": "z",
+      "owner": "bk",
+      "name": "c",
       "type": "Z",
       "realType": "Z",
       "isStatic": false,
@@ -1098,9 +1098,9 @@
     },
     {
       "realName": "hitUpdates",
-      "owner": "cx",
-      "name": "p",
-      "type": "Lgp;",
+      "owner": "cg",
+      "name": "o",
+      "type": "Lgq;",
       "realType": "Lcom/wingman/client/api/generated/NodeIterable;",
       "isStatic": false,
       "getter": 1,
@@ -1108,28 +1108,28 @@
     },
     {
       "realName": "id",
-      "owner": "ch",
-      "name": "d",
+      "owner": "cd",
+      "name": "w",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -650261999,
-      "setter": -147691791
+      "getter": -24083525,
+      "setter": -1593456269
     },
     {
       "realName": "id",
-      "owner": "id",
-      "name": "q",
+      "owner": "ia",
+      "name": "g",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -416969063,
-      "setter": -1835604567
+      "getter": -1075314869,
+      "setter": -438365597
     },
     {
       "realName": "ids",
-      "owner": "bx",
-      "name": "k",
+      "owner": "bt",
+      "name": "s",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1138,19 +1138,19 @@
     },
     {
       "realName": "index",
-      "owner": "bm",
-      "name": "d",
+      "owner": "bb",
+      "name": "w",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1821066623,
-      "setter": 1630960255
+      "getter": 635401597,
+      "setter": -1000838187
     },
     {
       "realName": "interactableObjects",
-      "owner": "ed",
-      "name": "o",
-      "type": "[Leu;",
+      "owner": "ev",
+      "name": "n",
+      "type": "[Lel;",
       "realType": "[Lcom/wingman/client/api/generated/InteractableObject;",
       "isStatic": false,
       "getter": 1,
@@ -1158,19 +1158,19 @@
     },
     {
       "realName": "interactingIndex",
-      "owner": "bs",
-      "name": "bq",
+      "owner": "by",
+      "name": "bf",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1752718487,
-      "setter": -1561271513
+      "getter": 1118222207,
+      "setter": -2047801217
     },
     {
       "realName": "isaacCipher",
-      "owner": "fd",
-      "name": "v",
-      "type": "Lfn;",
+      "owner": "fg",
+      "name": "d",
+      "type": "Lft;",
       "realType": "Lcom/wingman/client/api/generated/IsaacCipher;",
       "isStatic": false,
       "getter": 1,
@@ -1178,18 +1178,18 @@
     },
     {
       "realName": "itemId",
-      "owner": "j",
-      "name": "k",
+      "owner": "h",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -627272043,
-      "setter": -104823619
+      "getter": -1204360795,
+      "setter": -1298803155
     },
     {
       "realName": "itemIds",
       "owner": "hj",
-      "name": "eo",
+      "name": "ew",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1198,9 +1198,9 @@
     },
     {
       "realName": "itemLayer",
-      "owner": "ed",
-      "name": "t",
-      "type": "Ldj;",
+      "owner": "ev",
+      "name": "x",
+      "type": "Lda;",
       "realType": "Lcom/wingman/client/api/generated/ItemLayer;",
       "isStatic": false,
       "getter": 1,
@@ -1209,7 +1209,7 @@
     {
       "realName": "itemQuantities",
       "owner": "hj",
-      "name": "ee",
+      "name": "en",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1218,8 +1218,8 @@
     },
     {
       "realName": "key",
-      "owner": "gs",
-      "name": "cl",
+      "owner": "gd",
+      "name": "cw",
       "type": "J",
       "realType": "J",
       "isStatic": false,
@@ -1228,9 +1228,9 @@
     },
     {
       "realName": "landscapeTiles",
-      "owner": "em",
-      "name": "s",
-      "type": "[[[Led;",
+      "owner": "eu",
+      "name": "v",
+      "type": "[[[Lev;",
       "realType": "[[[Lcom/wingman/client/api/generated/LandscapeTile;",
       "isStatic": false,
       "getter": 1,
@@ -1238,8 +1238,8 @@
     },
     {
       "realName": "message",
-      "owner": "bm",
-      "name": "s",
+      "owner": "bb",
+      "name": "v",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1248,18 +1248,18 @@
     },
     {
       "realName": "modelHeight",
-      "owner": "ee",
-      "name": "ck",
+      "owner": "en",
+      "name": "cu",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1171648773,
-      "setter": -1243755469
+      "getter": 1826389057,
+      "setter": -1154640959
     },
     {
       "realName": "name",
-      "owner": "bw",
-      "name": "d",
+      "owner": "bk",
+      "name": "w",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1269,7 +1269,7 @@
     {
       "realName": "name",
       "owner": "hj",
-      "name": "ca",
+      "name": "cc",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1278,8 +1278,8 @@
     },
     {
       "realName": "name",
-      "owner": "id",
-      "name": "s",
+      "owner": "ia",
+      "name": "v",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1288,8 +1288,8 @@
     },
     {
       "realName": "name",
-      "owner": "io",
-      "name": "f",
+      "owner": "ii",
+      "name": "i",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1298,9 +1298,19 @@
     },
     {
       "realName": "next",
-      "owner": "gg",
-      "name": "ca",
-      "type": "Lgg;",
+      "owner": "gd",
+      "name": "ch",
+      "type": "Lgd;",
+      "realType": "Lcom/wingman/client/api/generated/Node;",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
+    },
+    {
+      "realName": "next",
+      "owner": "gp",
+      "name": "cc",
+      "type": "Lgp;",
       "realType": "Lcom/wingman/client/api/generated/DualNode;",
       "isStatic": false,
       "getter": 1,
@@ -1308,19 +1318,9 @@
     },
     {
       "realName": "next",
-      "owner": "gh",
-      "name": "k",
-      "type": "Lgs;",
-      "realType": "Lcom/wingman/client/api/generated/Node;",
-      "isStatic": false,
-      "getter": 1,
-      "setter": 1
-    },
-    {
-      "realName": "next",
-      "owner": "gs",
-      "name": "ct",
-      "type": "Lgs;",
+      "owner": "gz",
+      "name": "s",
+      "type": "Lgd;",
       "realType": "Lcom/wingman/client/api/generated/Node;",
       "isStatic": false,
       "getter": 1,
@@ -1328,28 +1328,28 @@
     },
     {
       "realName": "noteIndex",
-      "owner": "io",
-      "name": "at",
+      "owner": "ii",
+      "name": "ah",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1955005475,
-      "setter": 905720949
+      "getter": 676781547,
+      "setter": -647798077
     },
     {
       "realName": "noteTemplateIndex",
-      "owner": "io",
-      "name": "ac",
+      "owner": "ii",
+      "name": "ag",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -2058393107,
-      "setter": 1420516325
+      "getter": -1342621145,
+      "setter": 124425623
     },
     {
       "realName": "objectFlags",
-      "owner": "ed",
-      "name": "i",
+      "owner": "ev",
+      "name": "u",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1358,28 +1358,28 @@
     },
     {
       "realName": "overHeadIcon",
-      "owner": "bw",
-      "name": "p",
+      "owner": "bk",
+      "name": "o",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1770454463,
-      "setter": -799542721
+      "getter": -1280381765,
+      "setter": 1595701363
     },
     {
       "realName": "overHeadIcon",
-      "owner": "id",
-      "name": "ah",
+      "owner": "ia",
+      "name": "aa",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -857611611,
-      "setter": -1816971987
+      "getter": 860585849,
+      "setter": -902579511
     },
     {
       "realName": "parent",
       "owner": "hj",
-      "name": "cj",
+      "name": "ca",
       "type": "Lhj;",
       "realType": "Lcom/wingman/client/api/generated/Widget;",
       "isStatic": false,
@@ -1388,8 +1388,8 @@
     },
     {
       "realName": "payload",
-      "owner": "fg",
-      "name": "d",
+      "owner": "fz",
+      "name": "w",
       "type": "[B",
       "realType": "[B",
       "isStatic": false,
@@ -1398,8 +1398,8 @@
     },
     {
       "realName": "pixels",
-      "owner": "jb",
-      "name": "e",
+      "owner": "jk",
+      "name": "q",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1408,28 +1408,28 @@
     },
     {
       "realName": "plane",
-      "owner": "ed",
-      "name": "p",
+      "owner": "ev",
+      "name": "o",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -620511103,
-      "setter": 2023522177
+      "getter": 336963789,
+      "setter": 1521648645
     },
     {
       "realName": "position",
-      "owner": "fg",
-      "name": "k",
+      "owner": "fz",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1573487627,
-      "setter": 1535240099
+      "getter": 108209879,
+      "setter": 428682471
     },
     {
       "realName": "prefix",
-      "owner": "bm",
-      "name": "q",
+      "owner": "bb",
+      "name": "g",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1438,48 +1438,48 @@
     },
     {
       "realName": "previous",
-      "owner": "gg",
-      "name": "ch",
-      "type": "Lgg;",
-      "realType": "Lcom/wingman/client/api/generated/DualNode;",
-      "isStatic": false,
-      "getter": 1,
-      "setter": 1
-    },
-    {
-      "realName": "previous",
-      "owner": "gs",
-      "name": "cp",
-      "type": "Lgs;",
+      "owner": "gd",
+      "name": "cx",
+      "type": "Lgd;",
       "realType": "Lcom/wingman/client/api/generated/Node;",
       "isStatic": false,
       "getter": 1,
       "setter": 1
     },
     {
+      "realName": "previous",
+      "owner": "gp",
+      "name": "cd",
+      "type": "Lgp;",
+      "realType": "Lcom/wingman/client/api/generated/DualNode;",
+      "isStatic": false,
+      "getter": 1,
+      "setter": 1
+    },
+    {
       "realName": "price",
-      "owner": "j",
-      "name": "e",
+      "owner": "h",
+      "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 77816035,
-      "setter": -1346837301
+      "getter": -706180633,
+      "setter": -695567913
     },
     {
       "realName": "pushedLoopCycle",
-      "owner": "bm",
-      "name": "k",
+      "owner": "bb",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -987006963,
-      "setter": -137783611
+      "getter": 299916657,
+      "setter": -1650539631
     },
     {
       "realName": "quantities",
-      "owner": "bx",
-      "name": "e",
+      "owner": "bt",
+      "name": "q",
       "type": "[I",
       "realType": "[I",
       "isStatic": false,
@@ -1488,28 +1488,28 @@
     },
     {
       "realName": "quantity",
-      "owner": "ch",
-      "name": "k",
+      "owner": "cd",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1778300201,
-      "setter": 1314867431
+      "getter": 628658673,
+      "setter": 877936401
     },
     {
       "realName": "quantity",
-      "owner": "j",
-      "name": "p",
+      "owner": "h",
+      "name": "o",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -113944759,
-      "setter": 835406585
+      "getter": 300768847,
+      "setter": 111212719
     },
     {
       "realName": "sender",
-      "owner": "bm",
-      "name": "p",
+      "owner": "bb",
+      "name": "o",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1518,9 +1518,9 @@
     },
     {
       "realName": "sentinel",
-      "owner": "gh",
-      "name": "d",
-      "type": "Lgs;",
+      "owner": "gz",
+      "name": "w",
+      "type": "Lgd;",
       "realType": "Lcom/wingman/client/api/generated/Node;",
       "isStatic": false,
       "getter": 1,
@@ -1528,28 +1528,28 @@
     },
     {
       "realName": "skullIcon",
-      "owner": "bw",
-      "name": "e",
+      "owner": "bk",
+      "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1861618247,
-      "setter": -2067300215
+      "getter": 598892947,
+      "setter": 1518920859
     },
     {
       "realName": "spawnedLoopCycle",
-      "owner": "bp",
-      "name": "d",
+      "owner": "bu",
+      "name": "w",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 506383791,
-      "setter": -98916017
+      "getter": -1309587599,
+      "setter": -2098947695
     },
     {
       "realName": "state",
-      "owner": "j",
-      "name": "d",
+      "owner": "h",
+      "name": "w",
       "type": "B",
       "realType": "B",
       "isStatic": false,
@@ -1558,28 +1558,28 @@
     },
     {
       "realName": "team",
-      "owner": "bw",
-      "name": "a",
+      "owner": "bk",
+      "name": "k",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 436753495,
-      "setter": 739759975
+      "getter": -1081358129,
+      "setter": -1626587601
     },
     {
       "realName": "teamIndex",
-      "owner": "io",
-      "name": "bf",
+      "owner": "ii",
+      "name": "bj",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1230171979,
-      "setter": 209756771
+      "getter": -252792731,
+      "setter": -1748205203
     },
     {
       "realName": "text",
       "owner": "hj",
-      "name": "bp",
+      "name": "bu",
       "type": "Ljava/lang/String;",
       "realType": "Ljava/lang/String;",
       "isStatic": false,
@@ -1588,8 +1588,8 @@
     },
     {
       "realName": "throwable",
-      "owner": "ej",
-      "name": "q",
+      "owner": "ez",
+      "name": "g",
       "type": "Ljava/lang/Throwable;",
       "realType": "Ljava/lang/Throwable;",
       "isStatic": false,
@@ -1598,38 +1598,38 @@
     },
     {
       "realName": "totalLevel",
-      "owner": "bw",
-      "name": "g",
-      "type": "I",
-      "realType": "I",
-      "isStatic": false,
-      "getter": 1136569905,
-      "setter": 168553169
-    },
-    {
-      "realName": "type",
-      "owner": "bm",
+      "owner": "bk",
       "name": "e",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1146217605,
-      "setter": -1842711475
+      "getter": 2119183897,
+      "setter": -911913431
     },
     {
-      "realName": "value",
-      "owner": "io",
-      "name": "ai",
+      "realName": "type",
+      "owner": "bb",
+      "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1337001535,
-      "setter": -1183050175
+      "getter": 693106189,
+      "setter": -330020667
+    },
+    {
+      "realName": "value",
+      "owner": "ii",
+      "name": "af",
+      "type": "I",
+      "realType": "I",
+      "isStatic": false,
+      "getter": -1341230381,
+      "setter": 1692054875
     },
     {
       "realName": "visible",
-      "owner": "id",
-      "name": "m",
+      "owner": "ia",
+      "name": "f",
       "type": "Z",
       "realType": "Z",
       "isStatic": false,
@@ -1638,8 +1638,8 @@
     },
     {
       "realName": "visibleOnMiniMap",
-      "owner": "id",
-      "name": "z",
+      "owner": "ia",
+      "name": "c",
       "type": "Z",
       "realType": "Z",
       "isStatic": false,
@@ -1648,8 +1648,8 @@
     },
     {
       "realName": "widgetActions",
-      "owner": "io",
-      "name": "ad",
+      "owner": "ii",
+      "name": "aw",
       "type": "[Ljava/lang/String;",
       "realType": "[Ljava/lang/String;",
       "isStatic": false,
@@ -1658,83 +1658,83 @@
     },
     {
       "realName": "width",
-      "owner": "iz",
-      "name": "b",
+      "owner": "io",
+      "name": "a",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 1133024047,
-      "setter": 159617999
+      "getter": 451550863,
+      "setter": 303513711
     },
     {
       "realName": "width",
-      "owner": "jb",
-      "name": "p",
+      "owner": "jk",
+      "name": "o",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -691802281,
-      "setter": -299996057
+      "getter": -241308853,
+      "setter": -359217565
     },
     {
       "realName": "x",
-      "owner": "bs",
-      "name": "ai",
+      "owner": "by",
+      "name": "af",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 318627133,
-      "setter": -81665515
+      "getter": -100322069,
+      "setter": -1954425917
     },
     {
       "realName": "x",
-      "owner": "dj",
-      "name": "k",
+      "owner": "da",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": 660876079,
-      "setter": 2021063631
+      "getter": 1451545287,
+      "setter": -446673161
     },
     {
       "realName": "x",
-      "owner": "ed",
-      "name": "k",
+      "owner": "ev",
+      "name": "s",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -160254689,
-      "setter": -1174763809
+      "getter": 736790635,
+      "setter": -2078415805
     },
     {
       "realName": "y",
-      "owner": "bs",
-      "name": "ah",
+      "owner": "by",
+      "name": "aa",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1038414011,
-      "setter": -1310184563
+      "getter": 636976329,
+      "setter": 497638777
     },
     {
       "realName": "y",
-      "owner": "dj",
-      "name": "e",
+      "owner": "da",
+      "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -1322711183,
-      "setter": 1974786449
+      "getter": -531875471,
+      "setter": 1638360977
     },
     {
       "realName": "y",
-      "owner": "ed",
-      "name": "e",
+      "owner": "ev",
+      "name": "q",
       "type": "I",
       "realType": "I",
       "isStatic": false,
-      "getter": -800399631,
-      "setter": -981577199
+      "getter": -1811862291,
+      "setter": 137629925
     }
   ]
 }
