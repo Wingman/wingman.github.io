@@ -496,16 +496,6 @@
   "fields": [
     {
       "realName": "appletHeight",
-      "owner": "ir",
-      "name": "bu",
-      "type": "I",
-      "realType": "I",
-      "isStatic": true,
-      "getter": 334735939,
-      "setter": -1124961685
-    },
-    {
-      "realName": "appletWidth",
       "owner": "gd",
       "name": "p",
       "type": "I",
@@ -513,6 +503,16 @@
       "isStatic": true,
       "getter": -842662451,
       "setter": -2063124731
+    },
+    {
+      "realName": "appletWidth",
+      "owner": "dt",
+      "name": "r",
+      "type": "I",
+      "realType": "I",
+      "isStatic": true,
+      "getter": 1784515731,
+      "setter": 1221947803
     },
     {
       "realName": "cameraPitch",
